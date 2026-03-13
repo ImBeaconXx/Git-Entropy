@@ -1,7 +1,7 @@
 # Git-Entropy (WIP)
 > Stop guessing where your technical debt is. Data-driven refactoring for modern teams.
 
-[中文說明](./README.zh-TW.md) | [License](#) | [Architecture](#)
+[中文說明](./README.zh-TW.md) | [License](./LICENSE) | [Architecture](#)
 
 ### 📊 The Problem
 Static analysis (like SonarQube) finds "bad code," but it doesn't find "painful code." If a complex function hasn't been touched in 3 years, it's not debt—it's an artifact. If a simple function is changed 50 times a month, it's a bottleneck.
